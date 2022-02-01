@@ -34,3 +34,9 @@ body{
     text-align: center;
     padding: 4rem;
 }
+
+.sub{
+    text-align: right;
+    margin-right: 3em;
+  
+}
